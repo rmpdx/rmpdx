@@ -1,16 +1,15 @@
 ### 💫 About Me
-I'm [Your Name], a Master's graduate in Applied Data Intelligence. My passion lies in bridging the gap between raw data and actionable business insights.
+I'm Rahul Majmudar, a Master's graduate in Applied Data Intelligence. My passion lies in bridging the gap between raw data and actionable business insights.
 
 - 🎓 **Education:** MS in Applied Data Intelligence
-- 🔭 **Currently working on:** [Your Capstone Project Name]
+- 🔭 **Currently working on:** Personality Chatbot - Neil DeGrasse Tyson
 - 🌱 **Learning:** Generative AI and MLOps
 - 👯 **Looking to collaborate on:** Open source Data Science projects
 
 ---
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](YOUR_PORTFOLIO_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmajmudar/)
 
 ---
 
